@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import { Chessboard } from "react-chessboard";
+import Chessboard from "chessboardjsx";
+
 
 export default function ChessMoveCalculator() {
   const [fen, setFen] = useState("start");
