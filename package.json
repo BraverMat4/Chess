@@ -1,8 +1,6 @@
 {
   "name": "chess-calculator",
   "version": "1.0.0",
-  "description": "Best move calculator based on material or checkmate logic",
-  "main": "main.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +9,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-chessboard": "^5.1.0"
+    "react-chessboard": "3.5.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
