@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-chessboard": "^2.2.7"
+    "react-chessboard": "^1.4.6"
   },
   "devDependencies": {
     "vite": "^4.5.0"
